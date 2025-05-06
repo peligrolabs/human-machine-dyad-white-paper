@@ -748,7 +748,7 @@ Date: ___________
 
 #### D.3 Post-Session Survey (Sample)
 
-⸻
+---
 
 Participant ID: ___________<br>
 Session Number: ___________<br>
