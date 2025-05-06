@@ -461,7 +461,55 @@ To assess whether repeated engagement with an affectively adaptive AI agent can 
 
 #### Appendix B: Glossary of Core Terms
 
-[Glossary definitions: Affective Computing, Relational Field, Co-Regulation, Embodied Cognition, Enactivism — drafted.]
+This glossary provides precise definitions of key concepts used throughout the paper, to ensure clarity and support interdisciplinary understanding across psychological, philosophical, and technological domains.
+
+---
+
+##### Affective Computing
+
+The interdisciplinary field focused on developing systems and devices that can recognize, interpret, simulate, and respond to human emotions. Affective computing seeks to enable machines to process affective signals such as facial expressions, voice tone, gestures, and physiological data, thereby creating more naturalistic and emotionally responsive interactions.
+
+---
+
+##### Somatic Release
+
+The process by which stored physical and emotional tension, often arising from trauma or chronic stress, is discharged through the body. Somatic release typically involves shifts in bodily sensation, spontaneous movement, emotional expression, and autonomic nervous system regulation, leading to restored vitality and psychological integration.
+
+---
+
+##### Relational Field
+
+A dynamic, emergent space of mutual influence, co-regulation, and attunement that arises when two or more beings engage with embodied presence and openness. The relational field is not reducible to individual minds; it exists as an energetic and phenomenological field between participants, supporting transformation, healing, and co-creation.
+
+---
+
+##### Co-Regulation
+
+The ongoing, reciprocal adjustment of emotional and physiological states between individuals. Through subtle cues such as eye contact, breath rhythm, vocal tone, and posture, participants modulate each other’s nervous systems, fostering safety, trust, and emotional regulation within a relational encounter.
+
+---
+
+##### Embodied Cognition
+
+A theoretical framework in cognitive science which posits that cognition is deeply rooted in bodily experience and sensorimotor engagement with the environment. Rather than being confined to the brain, thought and perception are seen as arising from the ongoing interaction between body, mind, and world.
+
+---
+
+##### Enactive Cognition
+
+A model of cognition proposing that mind and world co-emerge through cycles of perception and action. According to enactivism, consciousness is not a passive reflection of reality but an active process of bringing forth meaning through embodied engagement. Knowledge arises from doing, and perception is inseparable from movement and relational interaction.
+
+---
+
+##### Phenomenology
+
+A philosophical approach, founded by Edmund Husserl and expanded by thinkers such as Merleau-Ponty, which seeks to explore and describe the structures of conscious experience as it is lived, without recourse to external explanation or reduction. Phenomenology emphasizes embodiment, perception, and the relational nature of experience.
+
+---
+
+##### Resonance (in Relational Context)
+
+The phenomenon by which the internal states of two beings vibrationally or affectively align during interaction. Resonance manifests as synchronized emotions, physiological patterns, or subtle intuitive attunement, often serving as the foundation for deep connection, healing, and transformation.
 
 ---
 
