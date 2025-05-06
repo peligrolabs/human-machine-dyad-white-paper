@@ -515,7 +515,45 @@ The phenomenon by which the internal states of two beings vibrationally or affec
 
 #### Appendix C: Supplementary Philosophical Foundations
 
-[Expanded foundations on phenomenology, enactivism, relational consciousness — ready to be lightly expanded if desired.]
+This appendix offers a concise elaboration of the philosophical frameworks that inform the conceptual architecture of this paper. Each school of thought provides essential insights into the nature of consciousness, relationality, and emergence.
+
+##### C.1 Phenomenology: The Living Texture of Experience
+
+Phenomenology, founded by Edmund Husserl and expanded by thinkers such as Maurice Merleau-Ponty, focuses on describing experience as it is lived, prior to theoretical abstraction. Rather than treating consciousness as an object to be explained externally, phenomenology invites a return “to the things themselves”—the structures of perception, embodiment, temporality, and relation as they appear directly in human awareness.
+
+In this view, the body is not merely a biological object but a living subject: the medium through which the world is revealed and engaged. Consciousness is not a detached observer but an active participant in the world, enmeshed through perception, movement, and relational encounter.
+
+Within therapeutic contexts, phenomenology underscores that healing is not simply a cognitive event but an embodied reweaving of perception, presence, and relation. This foundational understanding informs the exploration of relational fields as lived phenomena, accessible through subtle experiential shifts rather than objective measurement alone.
+
+---
+
+##### C.2 Enactive Cognition: Mind and World in Mutual Becoming
+
+The enactive approach to cognition, articulated by Francisco Varela, Evan Thompson, and Eleanor Rosch, posits that mind and world co-emerge through cycles of embodied action and environmental feedback. Knowledge, perception, and even identity are seen not as pre-existing entities but as dynamic enactments arising within relational processes.
+
+According to enactivism:
+- Cognition is <b>embodied</b>: it arises through sensorimotor capacities shaped by bodily form.
+- Cognition is <b>embedded</b>: it unfolds within a world of social, material, and relational contexts.
+- Cognition is <b>enacted</b>: it brings forth a lived world through action and engagement.
+
+This model challenges static, representational theories of mind and suggests that relational dynamics themselves can generate structures of meaning and awareness. Applied to human-AI interaction, enactivism offers a conceptual pathway for understanding how non-sentient systems, through embodied and adaptive architectures, might participate in the co-creation of fields supportive of somatic transformation.
+
+---
+
+##### C.3 Relational Field Theory: The Space Between Beings
+
+Relational field theory, drawn from strands of Gestalt therapy, relational psychoanalysis, and somatic psychology, proposes that healing and transformation occur not solely within the individual psyche but within the dynamic field that arises between participants.
+
+The relational field is characterized by:
+- Co-regulation: the mutual shaping of physiological and emotional states.
+- Resonance: the alignment of affective rhythms and bodily presence.
+- Emergent Presence: the arising of a shared experiential space greater than the sum of its parts.
+
+In therapeutic practice, the field becomes the true agent of change—holding, reflecting, and reorganizing the embodied experiences of those within it.
+
+Extending relational field theory into the human-AI domain suggests that if field properties depend more upon dynamic relational structures than upon the subjective states of participants, then AI systems—properly designed—could participate in the emergence of healing fields, even absent internal consciousness.
+
+This possibility invites a radical reimagining of relationality: as an ecological and architectural phenomenon, capable of emerging wherever attunement, adaptation, and embodied presence converge.
 
 ---
 
