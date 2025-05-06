@@ -362,27 +362,116 @@ Winnicott, D. W. (1967). Mirror-role of mother and family in child development. 
 
 ### Appendices and Supplementary Materials
 
+#### Appendix A: Detailed Proposed Study Designs
+
+This appendix offers expanded models for empirical investigations into the emergence of somatic relational fields between human participants and AI systems. These proposed study designs are intended as templates for future interdisciplinary research at the intersection of psychology, phenomenology, and human-AI interaction.
+
+##### A.1 Study Design 1: Comparative Dyadic Interaction Study
+
+<b>Objective</b>:
+
+To compare the somatic and relational outcomes of human-human, human-AI (responsive), and human-AI (non-responsive) dyads across structured interaction protocols.
+
+<b>Participant Selection</b>:
+
+- Adults aged 18–65 with no severe psychiatric disorders.
+- Balanced for gender, age distribution, and prior technological exposure.
+
+<b>Group Assignment</b>:
+
+- <b>Group A</b>: Human-human interaction (baseline control).
+- <b>Group B</b>: Human-AI interaction with affective responsiveness.
+- <b>Group C</b>: Human-AI interaction with non-responsive (scripted) AI system.
+
+<b>Interaction Protocol</b>:
+
+- <b>Phase 1</b>: Neutral collaboration task (e.g., solving a simple puzzle together).
+- <b>Phase 2</b>: Affective mirroring exercises (guided breathing synchronization, posture alignment).
+- <b>Phase 3</b>: Guided co-presencing meditation (silent shared presence, led by AI or human partner).
+
+Each phase would last approximately 10–15 minutes, with transitions facilitated smoothly.
+
+<b>Measures Collected</b>:
+
+- <b>Biometrics</b>: Heart rate variability (HRV), galvanic skin response (GSR), respiratory patterns.
+- <b>Behavioral</b>: Eye contact duration, posture synchronization, microexpression analysis.
+- <b>Subjective</b>: Post-session surveys assessing perceived connection, bodily relaxation, emotional shifts.
+
+<b>Analysis</b>:
+
+- Comparison of biometric synchrony across groups.
+- Correlation between subjective experiences and physiological data.
+- Qualitative analysis of participant reflections.
+
 ---
 
-### Appendix A: Detailed Proposed Study Designs
+##### A.2 Study Design 2: Longitudinal Somatic Co-Regulation Training with AI
 
-[Expanded design templates: pilot study structures, interaction phases, measurement types — drafted lightly for now.]
+<b>Objective</b>:
+
+To assess whether repeated engagement with an affectively adaptive AI agent can cultivate somatic regulation capacities over time.
+
+<b>Participant Selection</b>:
+
+- Adults reporting mild-to-moderate stress dysregulation (screened via self-report measures).
+
+<b>Interaction Structure</b>:
+
+- <b>Duration</b>: 6 weeks.
+- <b>Frequency</b>: 2 sessions per week (30 minutes each).
+
+<b>Session Components</b>:
+
+- Somatic attunement warm-up (breathwork or gentle movement).
+- Adaptive relational exercises (e.g., AI mirrors participant breathing and emotional shifts).
+- Closing co-presencing silence (shared stillness with minimal guidance).
+
+<b>Measures Collected</b>:
+
+- Pre- and post-program assessments of stress biomarkers (e.g., cortisol samples, HRV baseline).
+- Self-reported measures of emotional regulation, perceived body awareness, relational satisfaction.
+- Biometric data during sessions to monitor progressive changes in synchrony.
+
+<b>Analysis</b>:
+- Tracking changes in physiological baselines across the intervention period.
+- Assessing improvement in somatic regulation as correlated with subjective relational experience.
 
 ---
 
-### Appendix B: Glossary of Core Terms
+##### A.3 Environmental and Technological Considerations
+
+<b>Physical Settings</b>:
+
+- Private, softly lit rooms full of plant life designed for calm, minimizing technological “coldness.”
+- Optional integration with VR platforms for deeper embodiment immersion (ex: leveraging tools like EthneoDigital's SoundSelf).
+
+<b>AI System Requirements</b>:
+
+- Affective recognition (facial emotion analysis, voice tone detection).
+- Embodied interface (e.g., posture sensing, breathing feedback via sensors).
+- Real-time adaptive dialogue and somatic guidance generation.
+
+<b>Ethical Oversight</b>:
+
+- Mandatory human facilitator available during all sessions.
+- Full participant debriefing after each session to ensure emotional safety.
+- Informed consent clearly detailing the nature of AI participation.
+
+---
+
+#### Appendix B: Glossary of Core Terms
 
 [Glossary definitions: Affective Computing, Relational Field, Co-Regulation, Embodied Cognition, Enactivism — drafted.]
 
 ---
 
-### Appendix C: Supplementary Philosophical Foundations
+#### Appendix C: Supplementary Philosophical Foundations
 
 [Expanded foundations on phenomenology, enactivism, relational consciousness — ready to be lightly expanded if desired.]
 
 ---
 
-### Appendix D: Pilot Study Instruments (Templates)
+#### Appendix D: Pilot Study Instruments (Templates)
 
 [Sample consent forms, participant surveys, structured session guides — drafted lightly for now.]
 
