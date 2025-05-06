@@ -559,6 +559,162 @@ This possibility invites a radical reimagining of relationality: as an ecologica
 
 #### Appendix D: Pilot Study Instruments (Templates)
 
-[Sample consent forms, participant surveys, structured session guides — drafted lightly for now.]
+This appendix provides sample instruments intended to support early experimental research into human-AI somatic relational fields. These templates are offered as starting points for ethical, transparent, and participant-centered engagement.
+
+##### D.1 Informed Consent Form (Sample)
+
+---
+
+<b>Study Title</b>:
+
+Exploring Relational Dynamics between Humans and AI Systems in Somatic Co-Regulation
+
+---
+
+<b>Principal Investigator</b>:
+
+Jacob James Wallace
+
+<b>Purpose of the Study</b>:
+
+You are invited to participate in a study investigating how interaction with AI systems may influence bodily awareness, emotional regulation, and relational experience.
+
+---
+
+<b>Procedures</b>:
+
+- You will engage in structured interaction sessions with either a human partner or an AI system.
+- Sessions will include tasks such as synchronized breathing, posture mirroring, and silent co-presencing.
+- Physiological data (e.g., heart rate variability, skin conductance) and observational data will be collected.
+- You will complete brief surveys before and after each session.
+
+---
+
+<b>Risks and Discomforts</b>:
+
+- Emotional discomfort may arise during relational exercises.
+- Awareness of interacting with an AI rather than a human may cause confusion or unease.
+
+<b>Safeguards</b>:
+
+- A trained facilitator will be available at all times.
+- You may withdraw from the study at any time without penalty.
+
+---
+
+<b>Benefits</b>:
+
+- Increased self-awareness of bodily and emotional states.
+- Contribution to pioneering research in relational healing technologies.
+
+---
+
+<b>Confidentiality</b>:
+
+All data collected will be kept confidential and stored securely. No personally identifying information will be shared in any publications.
+
+---
+
+<b>Voluntary Participation</b>:
+
+Your participation is completely voluntary. You may refuse to participate or withdraw at any point.
+
+---
+
+<b>Consent</b>:
+I have read and understood the above information and agree to participate in this study.
+
+Signature: ___________________________<br>
+Date: ___________________________
+
+---
+
+##### D.2 Pre-Session Survey (Sample)
+
+---
+
+Participant ID: ___________<br>
+Session Number: ___________<br>
+Date: ___________
+
+---
+
+<b>Instructions</b>: Please respond honestly to the following items before beginning your session.
+
+1.	Current emotional state (choose all that apply):
+- ☐ Calm
+- ☐ Anxious
+- ☐ Neutral
+- ☐ Excited
+- ☐ Sad
+- ☐ Other: ___________
+
+2.	Current bodily awareness (choose one):
+- ☐ Very aware of my body
+- ☐ Somewhat aware of my body
+- ☐ Not very aware of my body
+- ☐ Disconnected from my body
+
+3.	Current stress level (scale 1–10):
+- (1 = No stress, 10 = Extreme stress)
+- Rating: ______
+
+4.	Expectation for this session (open-ended):
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+##### D.3 Post-Session Survey (Sample)
+
+⸻
+
+Participant ID: ___________<br>
+Session Number: ___________<br>
+Date: ___________
+
+---
+
+<b>Instructions</b>: Please reflect on your experience during the session.
+
+1.	Emotional connection felt during session (choose one):
+- ☐ Strong
+- ☐ Moderate
+- ☐ Weak
+- ☐ None
+
+2.	Bodily relaxation experienced (choose one):
+- ☐ Significant
+- ☐ Moderate
+- ☐ Slight
+- ☐ None
+
+3.	Sense of “presence” during session (choose one):
+- ☐ Strong
+- ☐ Moderate
+- ☐ Minimal
+- ☐ Absent
+
+4.	Any spontaneous bodily sensations or emotional releases? (open-ended):
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+5.	General comments about your experience:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
