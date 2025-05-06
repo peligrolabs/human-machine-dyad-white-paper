@@ -752,11 +752,7 @@ Date: ___________
 
 Participant ID: ___________<br>
 Session Number: ___________<br>
-Date: <div style="width:200px"><hr/></div>
-
-<!-- \noindent\rule{2cm}{0.4pt} -->
-
-<!-- ___________ -->
+Date: ___________
 
 ---
 
