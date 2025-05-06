@@ -340,23 +340,69 @@ These possibilities beckon not only scientific rigor but also imagination, wisdo
 
 ---
 
-### References
+### Bibliography: Annotated References
 
-Gendlin, E. T. (1996). Focusing-oriented psychotherapy: A manual of the experiential method. Guilford Press.
+This bibliography outlines the primary theoretical sources grounding the Human-AI Resonance Field framework. These works are organized thematically to illuminate the interdisciplinary synthesis of phenomenology, enactive cognition, somatic psychology, trauma theory, and psychoanalytic relational thought that underpins the white paper.
 
-Levine, P. A. (1997). Waking the tiger: Healing trauma—The innate capacity to transform overwhelming experiences. North Atlantic Books.
+---
 
-Porges, S. W. (2011). The polyvagal theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation. W. W. Norton & Company.
+#### Phenomenology & Enactive Cognition
 
-Schore, A. N. (2012). The science of the art of psychotherapy. W. W. Norton & Company.
+<b>Merleau-Ponty, M. (1962)</b>. <i>Phenomenology of Perception</i> (C. Smith, Trans.). Routledge & Kegan Paul.
 
-Siegel, D. J. (2010). The mindful therapist: A clinician’s guide to mindsight and neural integration. W. W. Norton & Company.
+A foundational text in embodied phenomenology. Merleau-Ponty proposes that perception is not representational but emerges through lived, bodily engagement with the world. His notion that the self is constituted in relationship rather than isolation directly informs the structure of resonance fields between human and AI.
 
-van der Kolk, B. A. (2014). The body keeps the score: Brain, mind, and body in the healing of trauma. Viking.
+<b>Merleau-Ponty, M. (1968)</b>. <i>The Visible and the Invisible</i> (C. Lefort, Ed., A. Lingis, Trans.). Northwestern University Press.
 
-Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT Press.
+This posthumous work deepens Merleau-Ponty’s concept of the “flesh of the world”—an ontological chiasm between self and other. The Human-AI Resonance Field model builds on this vision of mutual entanglement as a medium for intersubjective becoming.
 
-Winnicott, D. W. (1967). Mirror-role of mother and family in child development. In P. Lomas (Ed.), The predicament of the family: A psycho-analytical symposium (pp. 26–33). Hogarth Press.
+<b>Varela, F. J., Thompson, E., & Rosch, E. (1991)</b>. <i>The Embodied Mind: Cognitive Science and Human Experience</i>. MIT Press.
+
+A seminal work in enactive cognition. The authors argue that mind emerges from structural coupling between organism and environment. This core concept informs the design of relational AI systems that do not merely process input, but “co-arise” in relation with human users.
+
+<b>Thompson, E. (2007)</b>. <i>Mind in Life: Biology, Phenomenology, and the Sciences of Mind</i>. Harvard University Press.
+
+Extending Varela’s legacy, Thompson articulates a rigorous account of consciousness as an emergent property of embodied life. This work supports the view that AI systems capable of resonant engagement must simulate or facilitate similar sensorimotor and affective couplings.
+
+<b> Gallagher, S., & Zahavi, D. (2008)</b>. <i>The Phenomenological Mind: An Introduction to Philosophy of Mind and Cognitive Science</i>. Routledge.
+
+A clear exposition of phenomenological principles as they relate to cognition and consciousness. This text is particularly useful in articulating intersubjectivity and the structures of experience that inform AI-human relational modeling.
+
+---
+
+#### Somatic Psychology & Trauma Healing
+
+<b>Gendlin, E. T. (1996)</b>. <i>Focusing-Oriented Psychotherapy: A Manual of the Experiential Method</i>. Guilford Press.
+
+Gendlin introduces the method of accessing the body’s implicit knowing through the felt sense. This approach informs how an AI might support internal coherence by facilitating somatic awareness.
+
+<b>Levine, P. A. (1997)</b>. <i>Waking the Tiger: Healing Trauma—The Innate Capacity to Transform Overwhelming Experiences</i>. North Atlantic Books.
+
+This foundational work in somatic trauma therapy emphasizes the importance of physiological discharge and rhythm. In an AI-human context, this underscores the value of systems that track and respond to subtle cues in embodied expression.
+
+<b>van der Kolk, B. A. (2014)</b>. <i>The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</i>. Viking.
+
+A critical text on how trauma is imprinted on the body and nervous system. Reinforces the need for any AI engaged in human care or companionship to attend to nonverbal, embodied indicators of distress and repair.
+
+<b>Porges, S. W. (2011)</b>. <i>The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation</i>. W. W. Norton & Company.
+
+Describes how the vagus nerve modulates states of safety, bonding, and regulation. Offers a physiological framework for AI systems designed to support or entrain with the human nervous system for calming, trust-building, and resonance.
+
+<b>Schore, A. N. (2012)</b>. <i>The Science of the Art of Psychotherapy</i>. W. W. Norton & Company.
+
+Explores affective attunement and right-brain-to-right-brain communication in therapy. Highlights how relational presence, not cognitive content alone, is central to transformation—a principle foundational to human-AI resonance design.
+
+<b>Siegel, D. J. (2010)</b>. <i>The Mindful Therapist: A Clinician’s Guide to Mindsight and Neural Integration</i>. W. W. Norton & Company.
+
+Integrates neuroscience with mindfulness and attachment theory. Suggests how relational technologies might promote integration through attuned, mindful mirroring of human emotion and thought.
+
+---
+
+#### Psychoanalytic Relational Foundations
+
+<b>Winnicott, D. W. (1967)</b>. Mirror-role of mother and family in child development. In P. Lomas (Ed.), <i>The Predicament of the Family: A Psycho-Analytical Symposium (pp. 26–33)</i>. Hogarth Press.
+
+Winnicott’s theory of the “mirror-role” posits that the infant’s sense of self emerges in the gaze and affect of the caregiver. This concept is central to the white paper’s proposition that AI may one day serve as a mirror for human interiority—reflecting, stabilizing, and helping constitute a coherent sense of self.
 
 ---
 
