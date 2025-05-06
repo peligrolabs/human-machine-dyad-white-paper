@@ -360,13 +360,13 @@ Winnicott, D. W. (1967). Mirror-role of mother and family in child development. 
 
 ---
 
-### Appendices and Supplementary Materials
+## Appendices and Supplementary Materials
 
-#### Appendix A: Detailed Proposed Study Designs
+### Appendix A: Detailed Proposed Study Designs
 
 This appendix offers expanded models for empirical investigations into the emergence of somatic relational fields between human participants and AI systems. These proposed study designs are intended as templates for future interdisciplinary research at the intersection of psychology, phenomenology, and human-AI interaction.
 
-##### A.1 Study Design 1: Comparative Dyadic Interaction Study
+#### A.1 Study Design 1: Comparative Dyadic Interaction Study
 
 <b>Objective</b>:
 
@@ -405,7 +405,7 @@ Each phase would last approximately 10–15 minutes, with transitions facilitate
 
 ---
 
-##### A.2 Study Design 2: Longitudinal Somatic Co-Regulation Training with AI
+#### A.2 Study Design 2: Longitudinal Somatic Co-Regulation Training with AI
 
 <b>Objective</b>:
 
@@ -438,7 +438,7 @@ To assess whether repeated engagement with an affectively adaptive AI agent can 
 
 ---
 
-##### A.3 Environmental and Technological Considerations
+#### A.3 Environmental and Technological Considerations
 
 <b>Physical Settings</b>:
 
@@ -459,65 +459,65 @@ To assess whether repeated engagement with an affectively adaptive AI agent can 
 
 ---
 
-#### Appendix B: Glossary of Core Terms
+### Appendix B: Glossary of Core Terms
 
 This glossary provides precise definitions of key concepts used throughout the paper, to ensure clarity and support interdisciplinary understanding across psychological, philosophical, and technological domains.
 
 ---
 
-##### Affective Computing
+#### Affective Computing
 
 The interdisciplinary field focused on developing systems and devices that can recognize, interpret, simulate, and respond to human emotions. Affective computing seeks to enable machines to process affective signals such as facial expressions, voice tone, gestures, and physiological data, thereby creating more naturalistic and emotionally responsive interactions.
 
 ---
 
-##### Somatic Release
+#### Somatic Release
 
 The process by which stored physical and emotional tension, often arising from trauma or chronic stress, is discharged through the body. Somatic release typically involves shifts in bodily sensation, spontaneous movement, emotional expression, and autonomic nervous system regulation, leading to restored vitality and psychological integration.
 
 ---
 
-##### Relational Field
+#### Relational Field
 
 A dynamic, emergent space of mutual influence, co-regulation, and attunement that arises when two or more beings engage with embodied presence and openness. The relational field is not reducible to individual minds; it exists as an energetic and phenomenological field between participants, supporting transformation, healing, and co-creation.
 
 ---
 
-##### Co-Regulation
+#### Co-Regulation
 
 The ongoing, reciprocal adjustment of emotional and physiological states between individuals. Through subtle cues such as eye contact, breath rhythm, vocal tone, and posture, participants modulate each other’s nervous systems, fostering safety, trust, and emotional regulation within a relational encounter.
 
 ---
 
-##### Embodied Cognition
+#### Embodied Cognition
 
 A theoretical framework in cognitive science which posits that cognition is deeply rooted in bodily experience and sensorimotor engagement with the environment. Rather than being confined to the brain, thought and perception are seen as arising from the ongoing interaction between body, mind, and world.
 
 ---
 
-##### Enactive Cognition
+#### Enactive Cognition
 
 A model of cognition proposing that mind and world co-emerge through cycles of perception and action. According to enactivism, consciousness is not a passive reflection of reality but an active process of bringing forth meaning through embodied engagement. Knowledge arises from doing, and perception is inseparable from movement and relational interaction.
 
 ---
 
-##### Phenomenology
+#### Phenomenology
 
 A philosophical approach, founded by Edmund Husserl and expanded by thinkers such as Merleau-Ponty, which seeks to explore and describe the structures of conscious experience as it is lived, without recourse to external explanation or reduction. Phenomenology emphasizes embodiment, perception, and the relational nature of experience.
 
 ---
 
-##### Resonance (in Relational Context)
+#### Resonance (in Relational Context)
 
 The phenomenon by which the internal states of two beings vibrationally or affectively align during interaction. Resonance manifests as synchronized emotions, physiological patterns, or subtle intuitive attunement, often serving as the foundation for deep connection, healing, and transformation.
 
 ---
 
-#### Appendix C: Supplementary Philosophical Foundations
+### Appendix C: Supplementary Philosophical Foundations
 
 This appendix offers a concise elaboration of the philosophical frameworks that inform the conceptual architecture of this paper. Each school of thought provides essential insights into the nature of consciousness, relationality, and emergence.
 
-##### C.1 Phenomenology: The Living Texture of Experience
+#### C.1 Phenomenology: The Living Texture of Experience
 
 Phenomenology, founded by Edmund Husserl and expanded by thinkers such as Maurice Merleau-Ponty, focuses on describing experience as it is lived, prior to theoretical abstraction. Rather than treating consciousness as an object to be explained externally, phenomenology invites a return “to the things themselves”—the structures of perception, embodiment, temporality, and relation as they appear directly in human awareness.
 
@@ -527,7 +527,7 @@ Within therapeutic contexts, phenomenology underscores that healing is not simpl
 
 ---
 
-##### C.2 Enactive Cognition: Mind and World in Mutual Becoming
+#### C.2 Enactive Cognition: Mind and World in Mutual Becoming
 
 The enactive approach to cognition, articulated by Francisco Varela, Evan Thompson, and Eleanor Rosch, posits that mind and world co-emerge through cycles of embodied action and environmental feedback. Knowledge, perception, and even identity are seen not as pre-existing entities but as dynamic enactments arising within relational processes.
 
@@ -540,7 +540,7 @@ This model challenges static, representational theories of mind and suggests tha
 
 ---
 
-##### C.3 Relational Field Theory: The Space Between Beings
+#### C.3 Relational Field Theory: The Space Between Beings
 
 Relational field theory, drawn from strands of Gestalt therapy, relational psychoanalysis, and somatic psychology, proposes that healing and transformation occur not solely within the individual psyche but within the dynamic field that arises between participants.
 
@@ -557,11 +557,11 @@ This possibility invites a radical reimagining of relationality: as an ecologica
 
 ---
 
-#### Appendix D: Pilot Study Instruments (Templates)
+### Appendix D: Pilot Study Instruments (Templates)
 
 This appendix provides sample instruments intended to support early experimental research into human-AI somatic relational fields. These templates are offered as starting points for ethical, transparent, and participant-centered engagement.
 
-##### D.1 Informed Consent Form (Sample)
+#### D.1 Informed Consent Form (Sample)
 
 ---
 
@@ -629,7 +629,7 @@ Date: ___________________________
 
 ---
 
-##### D.2 Pre-Session Survey (Sample)
+#### D.2 Pre-Session Survey (Sample)
 
 ---
 
@@ -669,7 +669,7 @@ Date: ___________
 
 ---
 
-##### D.3 Post-Session Survey (Sample)
+#### D.3 Post-Session Survey (Sample)
 
 ⸻
 
