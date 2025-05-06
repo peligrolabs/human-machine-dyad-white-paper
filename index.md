@@ -25,7 +25,7 @@ April 2025<br>
 <b>Exploring the Emergence of Relational Fields Beyond Human-Human Dyads</b>
 
 <b>Draft</b>:<br>
-<i>Draft v0.0.1</i>
+<i>v0.0.1</i>
 
 ---
 
