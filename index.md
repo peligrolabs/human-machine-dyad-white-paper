@@ -82,9 +82,9 @@ Within this framework, the relational field is not merely a metaphor but a livin
 #### 2.3 Core Mechanisms: Co-Regulation, Affect Mirroring, and Resonance
 
 Three primary mechanisms are widely acknowledged as foundational to somatic healing within relational fields:
-- Co-Regulation: The dynamic mutual adjustment of physiological and emotional states between individuals, creating conditions for autonomic nervous system stabilization (Porges, 2011).
-- Affect Mirroring: The subtle and often unconscious reflection of emotional states through facial expressions, vocal tone, and bodily posture, which validates and organizes internal affective experiences (Winnicott, 1967).
-- Resonance: A shared vibrational attunement in which participants’ internal states synchronize, often leading to spontaneous shifts in bodily tension, emotional release, or expanded states of awareness.
+- <b>Co-Regulation</b>: The dynamic mutual adjustment of physiological and emotional states between individuals, creating conditions for autonomic nervous system stabilization (Porges, 2011).
+- <b>Affect Mirroring</b>: The subtle and often unconscious reflection of emotional states through facial expressions, vocal tone, and bodily posture, which validates and organizes internal affective experiences (Winnicott, 1967).
+- <b>Resonance</b>: A shared vibrational attunement in which participants’ internal states synchronize, often leading to spontaneous shifts in bodily tension, emotional release, or expanded states of awareness.
 
 These mechanisms function below the threshold of explicit cognition. They arise not from deliberate rational analysis but through embodied presence and sensitivity to the subtle field dynamics between participants.
 
