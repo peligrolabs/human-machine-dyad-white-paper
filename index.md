@@ -4,17 +4,48 @@ title: Home
 nav_order: 1
 ---
 
-## Somatic Relationality and the Future of Human-AI Therapeutic Interaction
+### Somatic Relationality and the Future of Human-AI Therapeutic Interaction: Exploring the Emergence of Relational Fields Beyond Human-Human Dyads
 {: .no_toc .fs-9 }
 
-### Exploring the Emergence of Relational Fields Beyond Human-Human Dyads
+<i>Draft v0.0.1</i>
+
+Jacob James Wallace<br>
+Independent Researcher | Peligro Labs, LLC<br>
+April 2025<br>
+
+---
+
+### Cover Page
 {: .no_toc .fs-9 }
 
-Draft v0.0.1
+<b>Title</b>:<br>
+<b>Somatic Relationality and the Future of Human-AI Therapeutic Interaction</b>
 
+<b>Subtitle</b>:<br>
+<b>Exploring the Emergence of Relational Fields Beyond Human-Human Dyads</b>
+
+<b>Draft</b>:<br>
+<i>Draft v0.0.1</i>
+
+---
+
+<b>Author</b>:<br>
 Jacob James Wallace
-Independent Researcher | Peligro Labs, LLC
+
+---
+
+<b>Affiliations</b>:<br>
+Peligro Labs, LLC
+
+---
+
+<b>Date</b>:<br>
 April 2025
+
+---
+
+<b>Abstract Teaser</b>:<br>
+Investigating whether embodied, affective, and adaptive AI systems can participate in the co-creation of therapeutic relational fields supportive of somatic release.
 
 ---
 
