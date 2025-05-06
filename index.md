@@ -49,10 +49,84 @@ We outline experimental designs for empirical exploration, identify potential th
 
 ---
 
-### 1. Purpose of the Prototype
+### 1. Introduction
+
+[Insert Full Introduction Section Text Here — already drafted.]
 
 ---
 
-### 2. Genre & Core Loop
+### 2. Foundations of Somatic Release
+
+[Insert Full Section 2 Text Here — already drafted.]
+
+---
+
+### 3. Architecture of Relational Dynamics
+
+[Insert Full Section 3 Text Here — already drafted.]
+
+---
+
+### 4. Human-AI Interaction: Current Capabilities
+
+[Insert Full Section 4 Text Here — already drafted.]
+
+---
+
+### 5. Hypothesis: AI Participation in Somatic Relational Fields
+
+[Insert Full Section 5 Text Here — already drafted.]
+
+---
+
+### 6. Proposed Research Methodologies
+
+[Insert Full Section 6 Text Here — already drafted.]
+
+---
+
+### 7. Ethical, Epistemological, and Ontological Considerations
+
+[Insert Full Section 7 Text Here — already drafted.]
+
+---
+
+### 8. Future Horizons
+
+[Insert Full Section 8 Text Here — already drafted.]
+
+---
+
+### References
+
+[Insert Full References List Here — already drafted.]
+
+---
+
+### Appendices and Supplementary Materials
+
+---
+
+### Appendix A: Detailed Proposed Study Designs
+
+[Expanded design templates: pilot study structures, interaction phases, measurement types — drafted lightly for now.]
+
+---
+
+### Appendix B: Glossary of Core Terms
+
+[Glossary definitions: Affective Computing, Relational Field, Co-Regulation, Embodied Cognition, Enactivism — drafted.]
+
+---
+
+### Appendix C: Supplementary Philosophical Foundations
+
+[Expanded foundations on phenomenology, enactivism, relational consciousness — ready to be lightly expanded if desired.]
+
+---
+
+### Appendix D: Pilot Study Instruments (Templates)
+
+[Sample consent forms, participant surveys, structured session guides — drafted lightly for now.]
 
 ---
