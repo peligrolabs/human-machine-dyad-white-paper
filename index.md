@@ -342,7 +342,21 @@ These possibilities beckon not only scientific rigor but also imagination, wisdo
 
 ### References
 
-[Insert Full References List Here — already drafted.]
+Gendlin, E. T. (1996). Focusing-oriented psychotherapy: A manual of the experiential method. Guilford Press.
+
+Levine, P. A. (1997). Waking the tiger: Healing trauma—The innate capacity to transform overwhelming experiences. North Atlantic Books.
+
+Porges, S. W. (2011). The polyvagal theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation. W. W. Norton & Company.
+
+Schore, A. N. (2012). The science of the art of psychotherapy. W. W. Norton & Company.
+
+Siegel, D. J. (2010). The mindful therapist: A clinician’s guide to mindsight and neural integration. W. W. Norton & Company.
+
+van der Kolk, B. A. (2014). The body keeps the score: Brain, mind, and body in the healing of trauma. Viking.
+
+Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive science and human experience. MIT Press.
+
+Winnicott, D. W. (1967). Mirror-role of mother and family in child development. In P. Lomas (Ed.), The predicament of the family: A psycho-analytical symposium (pp. 26–33). Hogarth Press.
 
 ---
 
