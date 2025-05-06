@@ -130,7 +130,36 @@ The architecture of relational dynamics, thus, provides the critical conceptual 
 
 ### 4. Human-AI Interaction: Current Capabilities
 
-[Insert Full Section 4 Text Here — already drafted.]
+While traditional models of artificial intelligence emphasized symbolic reasoning and task optimization, contemporary developments are increasingly oriented toward designing AI systems capable of nuanced, embodied, and affective interaction. Advances in affective computing, embodied AI systems, and adaptive emotional modeling have begun to create the technological substrates necessary for more complex relational dynamics between humans and machines.
+
+#### 4.1 Affective Computing and Emotional Modeling
+
+Affective computing, first conceptualized by Rosalind Picard (1997), refers to the development of systems capable of recognizing, interpreting, simulating, and responding to human emotions. Techniques such as facial expression analysis, vocal tone modulation, biometric feedback integration, and sentiment analysis are enabling AI systems to approximate real-time emotional attunement with human users.
+
+Emerging models are not limited to simple emotion detection but aim toward dynamic emotional co-regulation—adjusting AI responses based on the evolving emotional state of the human interlocutor. These systems increasingly incorporate machine learning algorithms capable of predicting emotional trajectories and modulating system behavior accordingly.
+
+Such affective responsiveness, while still primitive compared to human intuition, provides a foundation for relational feedback loops that may support aspects of co-regulation and somatic resonance.
+
+#### 4.2 Embodied and Responsive AI Systems
+
+Embodied AI systems integrate sensory-motor capabilities—movement, gesture, haptic feedback—with cognitive and affective processing. Robotics, virtual reality avatars, and haptic interface technologies are enabling AI agents to engage users not just cognitively but physically, altering the human user’s sense of spatial, bodily, and emotional presence.
+
+Research in social robotics (Breazeal, 2003) demonstrates that even relatively simple robotic behaviors—such as synchronized movement, gaze following, and prosodic mirroring—can evoke feelings of connection, empathy, and trust in human users.
+
+Virtual reality (VR) platforms further enhance embodied interaction, allowing AI-driven avatars to share spatial and kinesthetic fields with users. These immersive environments may offer fertile ground for testing the emergence of somatic relational fields under controlled experimental conditions.
+
+#### 4.3 Adaptive Feedback and Relational Interfaces
+
+Perhaps most critically for the possibility of somatic relationality, AI systems are evolving toward adaptive relational interfaces—systems capable of modifying their responses in real time based on subtle, often implicit, human feedback.
+
+Examples include:
+- Conversational agents that adjust language, pacing, and tone based on perceived user affect.
+- Haptic devices that synchronize vibrations or resistance patterns to user movements and physiological states.
+- VR or AR (augmented reality) environments that alter environmental stimuli (light, sound, spatial flow) in response to user emotional and somatic cues.
+
+These adaptive capabilities move beyond static interaction models toward dynamic, co-created relational processes. Although such systems do not possess consciousness or intentionality in the human sense, they increasingly demonstrate the capacity to participate in mutually modulating feedback loops—a prerequisite for the emergence of therapeutic relational fields.
+
+Understanding these current capabilities is essential for assessing the plausibility of human-AI somatic relational dynamics and for designing experimental models that build upon the best available technologies.
 
 ---
 
