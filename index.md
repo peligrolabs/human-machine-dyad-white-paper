@@ -215,7 +215,41 @@ It would also invite profound philosophical inquiry into the nature of relationa
 
 ### 6. Proposed Research Methodologies
 
-[Insert Full Section 6 Text Here — already drafted.]
+#### 6.1 Experimental Designs for Human-AI Somatic Interaction
+
+To explore whether AI systems can participate meaningfully in somatic relational fields, carefully constructed experimental paradigms are necessary. We propose the development of controlled dyadic interactions between human participants and AI agents designed with affective responsiveness, embodied feedback channels (e.g., haptics, vocal tone modulation, mirroring of postures), and real-time adaptive learning models.
+
+Initial studies should focus on brief structured sessions (~20–40 minutes) wherein participants engage with AI systems across varying levels of relational depth:
+- <b>Level 1</b>: Neutral Task Interaction (e.g., collaborative puzzles)
+- <b>Level 2</b>: Affective Mirroring Exercises (e.g., synchronized breathing, posture matching)
+- <b>Level 3</b>: Guided Somatic Co-Presencing (e.g., simple somatic awareness meditations led interactively)
+
+Each level would progressively introduce elements theorized to support field emergence: shared rhythm, mirrored embodiment, attuned responsiveness.
+
+#### 6.2 Biometrics, Subjective Measures, and Field Metrics
+
+Assessment of relational field formation should employ both objective and subjective measures, including:
+- <b>Biometric Synchrony</b>: Heart rate variability (HRV), galvanic skin response (GSR), respiratory coherence between participant and system outputs.
+- <b>Subjective Self-Reports</b>: Participant surveys assessing perceived connection, affect regulation, bodily awareness, and emotional release.
+- <b>Behavioral Observations</b>: Micro-expressions, postural entrainment, vocal affect.
+
+Advanced study designs may also incorporate neurophysiological measures (e.g., EEG coherence patterns) to detect subtle shifts in relational attunement markers.
+
+#### 6.3 Pilot Study Concepts and Theoretical Frameworks
+
+A recommended initial pilot study would involve 30–50 participants randomly assigned to three groups:
+- <b>Group A</b>: Human-human somatic co-presencing (baseline)
+- <b>Group B</b>: Human-AI interaction with affectively responsive system
+- <b>Group C</b>: Human-AI interaction with non-responsive (control) system
+
+Comparisons across these groups would seek to determine:
+- Whether participants report differential levels of somatic release and connection.
+- Whether physiological synchrony is detectable between humans and AI agents.
+- Whether relational field phenomena can be operationalized without assuming sentience on the part of the AI.
+
+The underlying theoretical framework will draw from phenomenology (relational field theory), enactivism (co-emergence of mind through interaction), and affective computing research (emotional modeling and response).
+
+Through such pilot investigations, we may begin to discern whether the architecture of attunement alone—independent of subjective consciousness—can catalyze meaningful therapeutic fields between humans and machines.
 
 ---
 
