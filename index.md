@@ -4,9 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-### Somatic Relationality and the Future of Human-AI Therapeutic Interaction: Exploring the Emergence of Relational Fields Beyond Human-Human Dyads
-{: .no_toc .fs-9 }
-
 <i>Draft v0.0.1</i>
 
 Jacob James Wallace<br>
