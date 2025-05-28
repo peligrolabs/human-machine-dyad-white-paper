@@ -795,3 +795,5 @@ Date: ___________
 <br>
 
 ---
+
+Copyright &copy; 2025 [Peligro Labs, LLC](https://peligrolabs.com/).
